@@ -1,0 +1,9 @@
+[en]
+WELCOME_MESSAGE = Welcome /t%s/y. For problems visit our site /t%s
+WELCOME_MESSAGE_IP = Your IP is: /t%s/y. Please /tDon't Cheat!
+WELCOME_MESSAGE_HOST = Good playing in /t%s/y on Map: /t%s
+
+[bg]
+WELCOME_MESSAGE = Dobre doshal /t%s/y. Pri problemi poseti nashiq sait /t%s
+WELCOME_MESSAGE_IP = Tvoeto IP e: /t%s/y. Molq /tNe Igraite s Hack!
+WELCOME_MESSAGE_HOST = Priqtna igra v /t%s/y na Karta: /t%s
